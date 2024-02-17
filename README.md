@@ -1,16 +1,23 @@
-### Hi there 👋
+### Tyler Perkins (Clortox)
 
-<!--
-**Clortox/Clortox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer at Etactics, located in the Cleveland area.
+I love software design and development, mechanical/electrical engineering, and metalworking.
 
-Here are some ideas to get you started:
+#### Neat projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Kubernetes Cluster](https://git.clortox.com/Infrastructure/Gluttony-Cluster)
+  - A K3S cluster on my personal server rack in my home, hosting several services for myself
+- [Human Call Stack](https://git.clortox.com/tyler/HumanCallStack)
+  - A TODO app based on the concept of a callstack
+
+#### Links
+
+- [Personal Website](https://tylerperkins.xyz)
+- [Personal Gitea](https://git.clortox.com)
+- [Linkedin](https://www.linkedin.com/in/tyler-perkins-xyz/)
+- [Resume](https://s3.clortox.com/static-assets/Resume.pdf)
+
+#### Contact
+
+- [Email (hello@clortox.com)](mailto:hello@clortox.com)
+- [Linkedin](https://www.linkedin.com/in/tyler-perkins-xyz/)
