@@ -13,7 +13,7 @@ I love software design and development, mechanical/electrical engineering, and m
 #### Links
 
 - [Personal Website](https://tylerperkins.xyz)
-- [Personal Gitea](https://git.clortox.com)
+- [Personal Gitea](https://git.clortox.com) - This is where most of my development happens
 - [Linkedin](https://www.linkedin.com/in/tyler-perkins-xyz/)
 - [Resume](https://s3.clortox.com/static-assets/Resume.pdf)
 
