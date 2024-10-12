@@ -41,3 +41,5 @@ _These are projects I can't share the source of due to school/work agreements, h
 
 - [Email (hello@clortox.com)](mailto:hello@clortox.com)
 - [Linkedin](https://www.linkedin.com/in/tyler-perkins-xyz/)
+
+*Note that none of my work here or my opinions or actions are reflections on my employer or any education instiution, past or present*
