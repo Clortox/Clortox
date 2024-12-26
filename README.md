@@ -32,10 +32,9 @@ _These are projects I can't share the source of due to school/work agreements, h
 
 #### Links
 
-- [Personal Website](https://tylerperkins.xyz)
+- [Personal Website](https://www.tylerperkins.xyz)
 - [Personal Gitea](https://git.clortox.com) - This is where most of my development happens
 - [Linkedin](https://www.linkedin.com/in/tyler-perkins-xyz/)
-- [Resume](https://s3.clortox.com/static-assets/Resume.pdf)
 
 #### Contact
 
